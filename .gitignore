@@ -6,3 +6,7 @@ node_modules
 # CDK asset staging directory
 .cdk.staging
 cdk.out
+.vscode
+api/get-photos/node_modules
+api/get-photos/package-lock.json
+frontend/public
